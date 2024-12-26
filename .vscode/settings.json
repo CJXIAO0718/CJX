@@ -1,0 +1,15 @@
+{
+    
+"cmake.configureOnOpen": true,
+"editor.minimap.enabled": true,
+"C_Cpp.autocomplete": "default",
+// "[cpp]": {
+//         "editor.quickSuggestions": true
+//         },
+//         "[c]": {
+//         "editor.quickSuggestions": true
+//         },
+"C_Cpp.errorSquiggles": "enabled",
+"C_Cpp.default.compilerPath": "D:\\apps\\MinGW\\mingw64\\bin\\g++.exe",
+"cph.general.saveLocation": "D:\\code\\code_file\\C++\\.cph"
+}
